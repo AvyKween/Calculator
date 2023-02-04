@@ -2,11 +2,17 @@
 
 
 ## Setup development enviroment use:
-```yarn dev```
+`yarn dev`
 
-## Production Build:
-```yarn build```
+## Build for production:
+`yarn build`
 
-I know this could've done in an easier way, this was made just for test useReducer + TypeScript functionality
+## Run production build:
+`yarn preview`
+
+Does not support division by zero.<br>
+Nor other sixty functionalities.<br>
+\
+I know this could've done in an easier way, this was made just for test useReducer + TypeScript functionality.
 
 ![Wenomechainsama](./public/wenomechainsama.jpg)

@@ -2,13 +2,19 @@
 
 
 ## Setup development enviroment use:
-`yarn dev`
+```
+yarn dev
+```
 
 ## Build for production:
-`yarn build`
+```
+yarn build
+```
 
 ## Run production build:
-`yarn preview`
+```
+yarn preview
+```
 
 Does not support division by zero.<br>
 Nor other sixty functionalities.<br>

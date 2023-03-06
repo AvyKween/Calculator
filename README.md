@@ -1,7 +1,7 @@
 # Overengineered Calculator
 
 
-## Setup development enviroment use:
+## Setup development environment use:
 ```
 yarn dev
 ```
